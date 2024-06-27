@@ -1,0 +1,11 @@
+{
+    "files.associations": 
+    {
+        "new": "cpp"
+    },
+    "includePath": 
+    {
+        "${workspaceFolder}/**":
+        "C:\\msys64\\mingw64\\include"
+    },
+}
