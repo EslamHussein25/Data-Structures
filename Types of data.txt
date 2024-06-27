@@ -1,0 +1,62 @@
+Hierarchical Data Structures
+Trees
+Binary Tree
+Binary Search Tree (BST)
+AVL Tree
+Red-Black Tree
+B-Tree
+Trie
+Graphs (when visualized as hierarchies)
+4. Non-Hierarchical Data Structures
+Linear Data Structures
+Array
+Linked List
+Singly Linked List
+Doubly Linked List
+Circular Linked List
+Stack
+Queue
+Simple Queue
+Circular Queue
+Priority Queue
+Deque (Double-ended Queue)
+Hash Table
+Set
+5. Linear vs. Non-Linear Data Structures
+Linear Data Structures (elements are arranged in a sequence)
+Array
+Linked List
+Stack
+Queue
+Non-Linear Data Structures (elements are arranged in a hierarchical manner)
+Tree
+Graph
+6. Static vs. Dynamic Data Structures
+Static Data Structures (fixed size)
+Array
+Dynamic Data Structures (size can change during runtime)
+Linked List
+Tree
+Graph
+7. Homogeneous vs. Heterogeneous Data Structures
+Homogeneous Data Structures (elements of the same type)
+Array
+Stack
+Queue
+Heterogeneous Data Structures (elements of different types)
+Class objects
+Dictionary (Python)
+8. Primitive vs. Non-Primitive Data Structures
+Primitive Data Structures (basic data types)
+Integer
+Float
+Character
+Pointer
+Non-Primitive Data Structures (more complex)
+Array
+List
+Stack
+Queue
+Tree
+Graph
+Hash Table
